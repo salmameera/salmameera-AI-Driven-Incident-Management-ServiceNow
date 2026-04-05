@@ -1,0 +1,18 @@
+AI Driven Incident Management System – ServiceNow
+
+This project uses ServiceNow Virtual Agent and Flow Designer to automate incident management.
+
+Process:
+1. User reports issue via Virtual Agent.
+2. Bot analyzes issue (Hardware / Network / Software / Login).
+3. Bot gives troubleshooting steps.
+4. If not resolved → Incident automatically created.
+5. Incident assigned to correct team.
+6. Priority set automatically.
+7. Work notes and resolution notes auto updated.
+
+Assignment Groups:
+- Hardware Team
+- Network Team
+- Software Team
+- Service Desk
